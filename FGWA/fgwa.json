@@ -1,7 +1,9 @@
-{'ver1':'9', 'ver2':'27', 'ver3':'\n
+{
+'ver1':'9', 'ver2':'27', 'ver3':'\n
 [Base] 22.22.2.73!\n
 [Exclusive ]Save to Gallery" option when Media Visibility is turned off\n
 [Exclusive ]Option to switch translation mode between in-app or GTranslate app (Mods > Conversation Screen > Translation Option)\n
 [ðŸ”¸Added ] MShow total message count in View All Messages screen\n
 [Fixed]Backup folder taking big storage space!\n' 
-, 'dli':'https://fg98.epizy.com'}
+, 'dli':'https://fg98.epizy.com'
+}
