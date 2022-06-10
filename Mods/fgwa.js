@@ -1,1 +1,1 @@
-{'ver1':'9', 'ver2':'28', 'ver3':'\n\n🛠️ Corregido : Problema que causaba que la aplicación se congelará\n🛠️ Corregido : Problema que inutiliza la aplicación\n📍Otros : Correcciones y mejoras' , 'dli':'https://fg98.epizy.com/fgwa.html'}
+{'ver1':'9', 'ver2':'29', 'ver3':'\n\n\n- 🚨 ACTUALIZACIÓN DE CORRECCIÓN IMPORTANTE:\n\n🔨 [Corregido] Google Play Protect "aplicación dañina" alerta incorrecta.\n\n💠[Nuevo] Multi cuentas\n' , 'dli':'https://fg98.epizy.com/fgwa.html'}
