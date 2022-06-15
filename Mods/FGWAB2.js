@@ -4,11 +4,11 @@
 	"update": [
 		{
 			"languaje": "en",
-			"changelog": "https://"
+			"changelog": "https://raw.githubusercontent.com/FG98F/FGWA/main/LANG/changelog_wab_en.html"
 		},
 		{
 			"languaje": "es",
-			"changelog": "https://"
+			"changelog": "https://raw.githubusercontent.com/FG98F/FGWA/main/LANG/changelog_wab_es.html"
 		}
 	]
 }
