@@ -1,5 +1,5 @@
 {
-	"version": "1.1",
+	"version": "1.1.1",
 	"download": "https://fgmods.epizy.com/fgwhatsapp/com.fgw4b.html",
 	"update": [
 		{
