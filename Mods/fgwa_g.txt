@@ -1,7 +1,7 @@
 {
   "GB": {
-    "update_code": "16",
-    "reminder_time": "6",
+    "update_code": "3",
+    "reminder_time": "3",
     "update_link": "https://fgmods.epizy.com",
     "stickers_app": "dontcheck",
     "stickers_app_package_name": "com.fgstickers.fg",
