@@ -1,5 +1,5 @@
 {
-	"version": "1.6.0",
+	"version": "1.7.0",
 	"download": "https://fgmods.epizy.com/index_wab.html",
 	"update": [
 		{
