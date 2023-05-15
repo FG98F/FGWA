@@ -1,1 +1,1 @@
-{'ver1':'14', 'ver2':'13', 'ver3':'\n\n- 🛡️ Mejorado :  Más protección Anti-ban mejorado \n\n- 💠 Mejorado :  Se corrigió el problema de suspensión de 1 una hora\n' , 'dli':'https://fgmods.epizy.com/index_fgwa.html'}
+{'ver1':'14', 'ver2':'15', 'ver3':'\n\n- 🛡️ Mejorado :  Más protección Anti-ban mejorado \n\n- 💠 Mejorado :  Se corrigió el problema de suspensión de 1 una hora para algunos usuarios\n' , 'dli':'https://fgmods.epizy.com/index_fgwa.html'}
